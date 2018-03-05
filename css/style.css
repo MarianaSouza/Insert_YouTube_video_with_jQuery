@@ -82,7 +82,7 @@ h1 {
 @media (max-width: 600px) {
 .video.video-location {
    height: 20%;
-   min-height: 400px;
+   min-height: 400px!important;
   }
 
 }
