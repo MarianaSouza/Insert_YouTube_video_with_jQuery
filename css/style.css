@@ -58,7 +58,7 @@ h1 {
 }
 .video.video-location {
   height: 100%;
-  background: url(img/camp.png) no-repeat scroll center center #e5e7e9;
+  background: url(../img/camp.png) no-repeat scroll center center #e5e7e9;
   background-size: cover;
 }
 
