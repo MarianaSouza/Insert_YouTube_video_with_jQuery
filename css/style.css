@@ -50,7 +50,7 @@ h1 {
   position: relative;
   width: 100%;
   height: auto;
-  min-height: 650px!important;
+  min-height: 700px!important;
   padding: 2em 0;
   text-align: left;
   color: #fff;
@@ -73,3 +73,16 @@ h1 {
   background: none no-repeat scroll 0 0 rgba(64, 64, 64, 0.15);
 }
 
+@media (max-width: 960px) {
+  h1 {
+    font-size: 32px;
+  }
+}
+
+@media (max-width: 600px) {
+.video.video-location {
+   height: 20%;
+   min-height: 400px;
+  }
+
+}
