@@ -4,7 +4,7 @@ HTML, CSS and an open source jQuery component (jquery.mb.YTPlayer) that can be u
 
 Take a look at the project:
 
-https://marianasouza.github.io/Inserting_Video_WebSite_JQuery/
+https://marianasouza.github.io/Insert_YouTube_video_with_jQuery/
 
 
 Learn more about jquery.mb.YTPlayer:
